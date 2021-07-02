@@ -8,6 +8,7 @@ class DepartmentServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Testing worling....!");
 	}
 
 }
